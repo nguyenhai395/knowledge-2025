@@ -1,0 +1,17 @@
+
++ Khi ta su dung http, moi lan ta upcode se phai bat cap nhat mau khai
++ Tuy nhien, neu ta su dung SSH thi viec nay se khong can thiet nua
+
+=> De tao mot SSH tren may tinh moi, ta lam nhu sau
+
+Buoc 1 : Profile -> Settting -> SSH and GPG keys
+Buoc 2 : Chon New,o phan key thi vao may tinh de tim
+
+Buocc3 : Len internet, tim kiem "creat new key SSH in github" sau do lam theo
+
+Buoc 4 : Tai o C, user/nguyen/ssh/... tim thu muc -> mo file text-> coppy cai doan sau
+        ........."nguyenhhai86@gmail.com"
+
+Buoc 5 : Cho vao git bash here.
+
+Buoc 6 : Update, chay lai thu la xong! Done

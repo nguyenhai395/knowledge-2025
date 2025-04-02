@@ -2,5 +2,14 @@ Day la file dung de toi hoc github hang ngay, update thuong xuyen
 
 2025/04/02
 
+* git clone http link 			: clone foder tu github xuong
+* git status         		        : kiem tra trang thai 
+* git add .           			: lenh add file thay doi
+* git commit -m "messege"		: comment de ghi don gian thay doi
 
+
+* git push origin main			: day file len server github neu file la main
+* git push origin master		: day file len server github neu file la master
+
+---------------------------------------------------------------------------------------
 
