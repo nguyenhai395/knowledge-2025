@@ -12,4 +12,11 @@ Day la file dung de toi hoc github hang ngay, update thuong xuyen
 * git push origin master		: day file len server github neu file la master
 
 ---------------------------------------------------------------------------------------
+"" Khi download code cua nguoi khac ve thi chi can lenh sau
 
+/// git pull origin main                : download code cua ng khac da update len sever
+/// git merge <Cai nay co ve chuyen nghiep ne>
+     @@@ git checkout -b zzzzzz         : tao mot brand moi voi ten la zzzzzz
+     @@@ git branch                     : kiem tra xem hien tai dang co nhung brand nao
+     @@@ tai day thao tac nhu tren nhanh main, tuy nhien, luc "git push origin thi phai cho zzzzzz chu k phai mai"
+     @@@ git checkout main              : se quay lai file main nhu ban dau
