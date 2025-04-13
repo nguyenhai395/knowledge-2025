@@ -15,3 +15,6 @@ Buoc 4 : Tai o C, user/nguyen/ssh/... tim thu muc -> mo file text-> coppy cai do
 Buoc 5 : Cho vao git bash here.
 
 Buoc 6 : Update, chay lai thu la xong! Done
+
+//////////////////////////////////////////////////////////////////////////
+OK
