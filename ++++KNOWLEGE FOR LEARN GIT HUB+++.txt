@@ -22,6 +22,7 @@ Day la file dung de toi hoc github hang ngay, update thuong xuyen
      @@@ git checkout main              : se quay lai file main nhu ban dau
 
 
-// git branch -d ten-branch             : xoa branch tren local
+// git branch -D ten-branch             : xoa branch tren local ////// CHU YEU DUNG CAI NAY
+// git branch -d ten-brach              : xoa branch neu da dc merge
 // git push origin --delete ten-branch  : xoa branch tren github
 //
